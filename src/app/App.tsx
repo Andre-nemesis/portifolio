@@ -34,7 +34,7 @@ export default function App() {
     title: 'Desenvolvedor Full Stack',
     github: 'andre-nemesis',
     linkedin: 'andre-casimiro-63425a283/',
-    email: 'andrecasimio@email.com',
+    email: 'andrecasimio@gmail.com',
     bio: 'Desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Focado em escrever código limpo e entregar experiências excepcionais.',
     avatar: 'https://github.com/andre-nemesis.png',
   };
